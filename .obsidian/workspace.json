@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "41663b16e42797e3",
@@ -186,7 +185,10 @@
   },
   "active": "bad3a06a67ff4271",
   "lastOpenFiles": [
+    "4. Sincronización y comunicación entre procesos.md",
     "3. Planificación de procesos.md",
-    "4. Sincronización y comunicación entre procesos.md"
+    "2. De programas a procesos.md",
+    "1. Introducción a los sistemas operativos.md",
+    "Sin título.md"
   ]
 }
