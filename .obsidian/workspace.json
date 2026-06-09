@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Administración de memoria.md",
+                "file": "3. Planificación de procesos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Administración de memoria"
+              "title": "3. Planificación de procesos"
             }
           }
         ]
@@ -185,9 +185,9 @@
   },
   "active": "bad3a06a67ff4271",
   "lastOpenFiles": [
+    "5. Administración de memoria.md",
     "2. De programas a procesos.md",
     "1. Introducción a los sistemas operativos.md",
-    "5. Administración de memoria.md",
     "0. Índice.md",
     "4. Sincronización y comunicación entre procesos.md",
     "3. Planificación de procesos.md"
