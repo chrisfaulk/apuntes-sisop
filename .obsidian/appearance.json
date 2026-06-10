@@ -1,1 +1,9 @@
-{}
+{
+  "cssTheme": "Border",
+  "showViewHeader": true,
+  "baseFontSizeAction": false,
+  "theme": "system",
+  "accentColor": "#a2acdd",
+  "baseFontSize": 14,
+  "showRibbon": false
+}
